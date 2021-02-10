@@ -12,20 +12,19 @@ Workshop to learn about Python tools for working with Biomedical data. You will 
 ## Pandas
 ### Pandas 101
 
-- [Learning Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Pandas/Pandas%20101/Learning%20notebook%20(Pandas%20101).ipynb)
-- [Exercises Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Pandas/Pandas%20101/Exercise%20notebook%20(Pandas%20101).ipynb)
+- [Learning Notebook](https://colab.research.google.com/github/vohcolab/ANEEB-2021-Python-Workshop/blob/main/Pandas/Pandas%20101/Learning%20notebook%20(Pandas%20101).ipynb)
+- [Exercises Notebook](https://colab.research.google.com/github/vohcolab/ANEEB-2021-Python-Workshop/blob/main/Pandas/Pandas%20101/Exercise%20notebook%20(Pandas%20101).ipynb)
 
 
 ### Pandas Advanced
 
-- [Learning Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Pandas/Pandas%20Advanced/Learning%20notebook%20-%20(Subsetting%20data).ipynb)
-- [Exercises Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Pandas/Pandas%20Advanced/Exercise%20notebook.ipynb)
+- [Learning Notebook](https://colab.research.google.com/github/vohcolab/ANEEB-2021-Python-Workshop/blob/main/Pandas/Pandas%20Advanced/Learning%20Notebook.ipynb)
+- [Exercises Notebook](https://colab.research.google.com/github/vohcolab/ANEEB-2021-Python-Workshop/blob/main/Pandas/Pandas%20Advanced/Exercises%20Notebook.ipynb)
 
 ## Time Series
 
 ### To be defined
 
-### To be defined
 
 # Value for Health Colab
 

@@ -20,7 +20,6 @@ Workshop to learn about Python tools for working with Biomedical data. You will 
 
 - [Learning Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Pandas/Pandas%20Advanced/Learning%20notebook%20-%20(Subsetting%20data).ipynb)
 - [Exercises Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Pandas/Pandas%20Advanced/Exercise%20notebook.ipynb)
-- [Solutions Notebook](https://github.com/vohcolab/PandaViz-Workshop/blob/main/Pandas/Pandas%20Advanced/Solutions%20notebook.ipynb)
 
 ## Time Series
 

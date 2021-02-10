@@ -6,15 +6,6 @@ Workshop to learn about Python tools for working with Biomedical data. You will 
 
 - https://bit.ly/3rGqnw9
 
-# Course Materials
-
-You can access the learning material in the following links:
-
-## Presentation
-[Google Slides](https://docs.google.com/presentation/d/1d9OgbcXJDxMr98hQcF1b8Orst0H3lAQcO3RQDGJSgH4/edit?usp=sharing)
-
-Our [slack](https://join.slack.com/t/voh-communitylab/shared_invite/zt-jpm17vgi-jexFJvJVnKS6Cp671qA84A), if you want to keep in touch and ask questions.
-
 
 # Contents
 

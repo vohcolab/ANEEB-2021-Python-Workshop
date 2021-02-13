@@ -24,8 +24,7 @@ Workshop to learn about Python tools for working with Biomedical data. You will 
 ## Time Series with covid data
 
 - [Learning Notebook](https://colab.research.google.com/github/vohcolab/ANEEB-2021-Python-Workshop/blob/main/Pandas/Time%20Series/Intro%20to%20Time%20series/Learning%20Notebook%20-%20Intro%20to%20Time%20Series.ipynb)
-
--[Exercises Notebook](https://colab.research.google.com/github/vohcolab/ANEEB-2021-Python-Workshop/blob/main/Pandas/Time%20Series/Intro%20to%20Time%20series/Exercise%20Notebook%20-%20Intro%20to%20Time%20Series.ipynb)
+- [Exercises Notebook](https://colab.research.google.com/github/vohcolab/ANEEB-2021-Python-Workshop/blob/main/Pandas/Time%20Series/Intro%20to%20Time%20series/Exercise%20Notebook%20-%20Intro%20to%20Time%20Series.ipynb)
 
 
 # Value for Health Colab
